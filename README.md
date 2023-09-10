@@ -16,19 +16,19 @@ Script ini akan melakukan hal-hal sebagai berikut:
 Untuk melakukan uninstall, silahkan run file "uninstall_USBShield.bat" as Adminstrator.
 
 Fitur-fitur yang terdapat di Aplikasi GUI adalah sebagai berikut:
-1. Main Menu
+1. Main Menu  
 Tampilan utama dari aplikasi.
-2. User Settings
+2. User Settings  
 Untuk melakukan konfigurasi terhadap aplikasi USB Shield. Perlu diisi untuk menerima email notifikasi.
-3. Search Bar
+3. Search Bar  
 Untuk melakukan pencarian data di tabel. Masing-masing tabel memiliki tombolnya sendiri.
-4. Refresh Data
+4. Refresh Data  
 Untuk melakukan pembaharuan data sesuai dengan registry terbaru.
-5. Name or Rename Data
+5. Name or Rename Data  
 Untuk memberi atau mengubah label USB yang ada di tabel(Label ini hanya berlaku di aplikasi USB Shield saja dan tidak mempengaruhi nama USB itu sendiri).
-6. Move to Blacklist or Whitelist
+6. Move to Blacklist or Whitelist  
 Untuk memindahkan data dari Blacklist ke Whitelist atau sebaliknya.
-7. Delete from Blacklist or Whitelist
+7. Delete from Blacklist or Whitelist  
 Untuk menghapus data dari Blacklist atau Whitelist.
-8. Email Notification
+8. Email Notification  
 Untuk mengirim email notifikasi apabila ada USB yang masuk ke sistem.
