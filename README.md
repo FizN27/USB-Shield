@@ -11,10 +11,11 @@ Script ini akan melakukan hal-hal sebagai berikut:
 2. Mengcopy file aplikasi ke directory "C:\Program Files\USB Shield"
 3. Membuat task scheduler di path "\UBSShield" dengan nama "USB Shield Helper" yang akan berjalan setiap Startup Komputer berlangsung
 4. Menjalankan helper setelah instalasi dilakukan
+5. Membuat logfile untuk setiap USB insertion event
 
 Untuk melakukan uninstall, silahkan run file "uninstall_USBShield.bat" as Adminstrator.
 
-Fitur-fitur yang terdapat di Aplikasi GUI:
+Fitur-fitur yang terdapat di Aplikasi GUI adalah sebagai berikut:
 1. Main Menu
 Tampilan utama dari aplikasi.
 2. User Settings
@@ -24,8 +25,10 @@ Untuk melakukan pencarian data di tabel. Masing-masing tabel memiliki tombolnya 
 4. Refresh Data
 Untuk melakukan pembaharuan data sesuai dengan registry terbaru.
 5. Name or Rename Data
-Untuk memberi atau mengubah label USB yang ada di tabel(Label ini hanya berlaku di aplikasi USB Shield saja).
+Untuk memberi atau mengubah label USB yang ada di tabel(Label ini hanya berlaku di aplikasi USB Shield saja dan tidak mempengaruhi nama USB itu sendiri).
 6. Move to Blacklist or Whitelist
 Untuk memindahkan data dari Blacklist ke Whitelist atau sebaliknya.
 7. Delete from Blacklist or Whitelist
 Untuk menghapus data dari Blacklist atau Whitelist.
+8. Email Notification
+Untuk mengirim email notifikasi apabila ada USB yang masuk ke sistem.
