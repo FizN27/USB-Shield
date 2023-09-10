@@ -1,11 +1,5 @@
 # USB-Shield
 
-******************************
-**                          **
-**  Welcome to USB Shield!  **
-**                          **
-******************************
-
 USB Shield adalah sebuah aplikasi untuk melakukan management USB yang terhubung ke suatu komputer.
 
 Aplikasi ini terbagi menjadi dua, GUI yang dapat digunakan untuk mengakses fitur-fitur USB Shield dan helper yang berjalan di background untuk melakukan deteksi terhadap USB yang dihubungkan ke sistem.
